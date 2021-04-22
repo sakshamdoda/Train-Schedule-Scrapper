@@ -1,0 +1,107 @@
+[
+    {
+        "TrainName": "04508  FAZILKA - DELHI Intercity Covid Special",
+        "DepartureTime": "10:38 PNP ",
+        "ArrivalTime": "12:45  DLI  "
+    },
+    {
+        "TrainName": "01842  KURUKSHETRA - KHAJURAHO Gita Jayanti Covid Special",
+        "DepartureTime": "16:02 PNP ",
+        "ArrivalTime": "18:00  NDLS  "
+    },
+    {
+        "TrainName": "02058  UNA HIMACHAL - NEW DELHI Covid Janshatabdi Exp Special",
+        "DepartureTime": "10:08 PNP ",
+        "ArrivalTime": "11:55  NDLS  "
+    },
+    {
+        "TrainName": "04218  CHANDIGARH - PRAYAGRAJ SANGAM Covid Special",
+        "DepartureTime": "19:03 PNP ",
+        "ArrivalTime": "21:10  DLI  "
+    },
+    {
+        "TrainName": "02926  AMRITSAR - MUMBAI BANDRA T Paschim Exp Covid Special",
+        "DepartureTime": "14:38 PNP ",
+        "ArrivalTime": "16:25  NDLS  "
+    },
+    {
+        "TrainName": "02716  AMRITSAR - HAZUR SAHIB NANDED Sachkhand Covid Special",
+        "DepartureTime": "11:11 PNP ",
+        "ArrivalTime": "12:45  NDLS  "
+    },
+    {
+        "TrainName": "02312  KALKA - HOWRAH Kalka Mail Covid Special",
+        "DepartureTime": "03:43 PNP ",
+        "ArrivalTime": "06:05  DLI  "
+    },
+    {
+        "TrainName": "02012  KALKA - NEW DELHI Shatabdi Covid Special",
+        "DepartureTime": "20:31 PNP ",
+        "ArrivalTime": "21:55  NDLS  "
+    },
+    {
+        "TrainName": "09806  UDHAMPUR - KOTA Covid Special",
+        "DepartureTime": "01:26 PNP ",
+        "ArrivalTime": "03:10  NDLS  "
+    },
+    {
+        "TrainName": "04554  DAULATPUR CHOWK - OLD DELHI Himachal Express Special",
+        "DepartureTime": "03:00 PNP ",
+        "ArrivalTime": "05:00  DLI  "
+    },
+    {
+        "TrainName": "08310  JAMMU TAWI - SAMBALPUR Muri Special",
+        "DepartureTime": "04:40 PNP ",
+        "ArrivalTime": "06:30  DLI  "
+    },
+    {
+        "TrainName": "02446  SMVD KATRA - NEW DELHI Uttar Sampark Kranti Festival Special",
+        "DepartureTime": "05:17 PNP ",
+        "ArrivalTime": "06:55  NDLS  "
+    },
+    {
+        "TrainName": "01078  JAMMU TAWI - PUNE Jhelum Covid Special",
+        "DepartureTime": "08:37 PNP ",
+        "ArrivalTime": "11:15  NDLS  "
+    },
+    {
+        "TrainName": "02006  KALKA - NEW DELHI Shatabdi Special",
+        "DepartureTime": "08:52 PNP ",
+        "ArrivalTime": "10:15  NDLS  "
+    },
+    {
+        "TrainName": "04672  SMVD KATRA - MUMBAI BANDRA T Covid Special",
+        "DepartureTime": "19:42 PNP ",
+        "ArrivalTime": "21:25  NDLS  "
+    },
+    {
+        "TrainName": "04406  KURUKSHETRA - HAZRAT NIZAMUDDIN Express Special",
+        "DepartureTime": "06:52 PNP ",
+        "ArrivalTime": "09:12  NDLS  "
+    },
+    {
+        "TrainName": "04450  PANIPAT - NEW DELHI MEMU Express Special (UnReserved)",
+        "DepartureTime": "05:00 PNP ",
+        "ArrivalTime": "07:30  NDLS  "
+    },
+    {
+        "TrainName": "04472  PANIPAT - GHAZIABAD MEMU Express Special (UnReserved)",
+        "DepartureTime": "06:00 PNP ",
+        "ArrivalTime": "08:16  NDLS  "
+    },
+    {
+        "TrainName": "04676  SMVD KATRA - GANDHIDHAM BG Sarvodaya SF Special",
+        "DepartureTime": "19:42 PNP ",
+        "ArrivalTime": "21:25  NDLS  "
+    },
+    {
+        "TrainName": "04680  SMVD KATRA - JAMNAGAR SF Special",
+        "DepartureTime": "19:42 PNP ",
+        "ArrivalTime": "21:25  NDLS  "
+    },
+    {
+        "TrainName": "04678  SVDK KATRA - HAPA Covid SF Special",
+        "DepartureTime": "19:42 PNP ",
+        "ArrivalTime": "21:25  NDLS  "
+    }
+]
