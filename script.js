@@ -80,7 +80,7 @@ async function main(){
     await new Promise(function(resolve,reject){
         setTimeout(resolve,4000);
     })
-    await tab.goto("file:///C:/Users/welcome/Desktop/MMUB/myproject/index.html");
+    await tab.goto("file:///C:/Users/welcome/Desktop/MMUB/projects/index.html");
     await new Promise(function(resolve,reject){
         setTimeout(resolve,9000);
     })
